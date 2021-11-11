@@ -58,3 +58,6 @@ ro.system.build.type=user
 ro.system_ext.build.type=user
 
 ro.miui.build.region=jp
+
+ro.config.media_vol_steps=22
+ro.config.vc_call_vol_steps=15
