@@ -1,2 +1,3 @@
 REPLACE="
+/system/app/NfcNci/
 "
