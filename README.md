@@ -1,8 +1,11 @@
 # GSI(Treble ROM)向け Mi 11 Lite 5Gへの最適化モジュール
 
-~~PixelExperience以外での動作は**未検証**です。~~
+# 更新終了
 
-[AOSPでの動作報告](https://twitter.com/Chromium_Linux/status/1476425902745853954?s=20)もあるので、多分ほとんどのROMで動くと思います！
+**主がAOSP系ROMを使ってない他、現在はGSIではない(完全なカスタム)ROMが多くなっているため、これ以上の更新は行いません。**
+
+## 代替モジュール:
+- (完全な)カスタムROMでFelica動作: [soralis0912/magisk-module-renoir-jp-felica](https://github.com/soralis0912/magisk-module-renoir-jp-felica)
 
 # [Fork元(magisk-module-renoir-jp)](https://github.com/AndroPlus-org/magisk-module-renoir-jp)との違い
 Fork元はおそらくFloko ROMに最適化してるように見えますが、このForkでは、端末に最適化されていないようなGSI向けに設定しています。
